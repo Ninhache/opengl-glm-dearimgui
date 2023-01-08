@@ -13,3 +13,10 @@ mingw32-make.exe
 ```
 
 hf.
+
+# dependencies 
+
+- GLAD
+- GLFW
+- Dear ImGui
+- GLM
