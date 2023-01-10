@@ -1,5 +1,6 @@
 # opengl-glm-dearimgui
 
+# For windows users ...
 ```cmake
 git clone --recursive https://github.com/Ninhache/opengl-glm-dearimgui.git
 
@@ -7,9 +8,9 @@ cd opengl-glm-dearimgui
 
 mkdir build
 
-cmake .. -G "MinGW Makefiles"
-
 cd build
+
+cmake .. -G "MinGW Makefiles"
 
 mingw32-make.exe
 ```
