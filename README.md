@@ -1,7 +1,9 @@
 # opengl-glm-dearimgui
 
 ```cmake
-git clone --recursive https://github.com/Ninhache/opengl-glm-dearimgui.git tmp
+git clone --recursive https://github.com/Ninhache/opengl-glm-dearimgui.git
+
+cd opengl-glm-dearimgui
 
 mkdir build
 
